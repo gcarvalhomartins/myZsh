@@ -53,14 +53,14 @@ As cores são baseadas na paleta **Catppuccin Mocha**, a mesma que o Starship us
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/zsh-starship-colors.git
-cd zsh-starship-colors
+git clone https://github.com/gcarvalhomartins/myZsh.git
+cd myZsh
 
 # Dê permissão de execução
-chmod +x setup_zsh_starship_colors.sh
+chmod +x zsh_terminal.sh
 
 # Execute o script
-./setup_zsh_starship_colors.sh
+./zsh_terminal.sh
 ```
 
 > **⚠️ Importante:** Um backup do seu `.zshrc` atual será criado automaticamente em `~/.zshrc.backup.YYYYMMDD_HHMMSS` antes de qualquer alteração.
@@ -202,7 +202,7 @@ Pull requests são bem-vindos! Se quiser adicionar suporte a outras distribuiç�
 
 ## 📄 Licença
 
-MIT © [Seu Nome](https://github.com/seu-usuario)
+MIT © [Gabriel Martins](https://github.com/gcarvalhomartins)
 
 ---
 
